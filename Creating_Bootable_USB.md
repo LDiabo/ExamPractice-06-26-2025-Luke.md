@@ -22,4 +22,4 @@ there are *3 things* you need to make a bootable usb.
 
 ## Can you have Multiple Boots on one Bootable USB?
 
-10. yes! you can use tools such as YUMI, Ventoy, or Easy2Boot than can multiboot a usb, also you can use the usb to simply store multiple .iso files. The Boot menu can also help ypu choose exactly which .iso file you'd like to boot from the drive.
+Yes! you can use tools such as YUMI, Ventoy, or Easy2Boot than can multiboot a usb, also you can use the usb to simply store multiple .iso files. The Boot menu can also help ypu choose exactly which .iso file you'd like to boot from the drive.
